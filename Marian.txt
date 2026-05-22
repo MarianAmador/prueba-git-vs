@@ -1,0 +1,1 @@
+Prueba para ver si entendí el proceso de commit y push en GitHub. Estoy editando este archivo para agregar más texto y luego haré un commit con un mensaje descriptivo. Después, haré un push para subir los cambios a mi repositorio en GitHub. Esto me ayudará a practicar el flujo de trabajo básico de Git y a familiarizarme con el uso de esta herramienta de control de versiones.
